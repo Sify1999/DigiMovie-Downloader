@@ -1,0 +1,17 @@
+# Python cache and environment folders
+__pycache__/
+*.pyc
+env/
+.venv/
+venv/
+
+# VSCode & IDE
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+.DS_Store
+
+# Output files
+links.txt
