@@ -22,10 +22,10 @@ A Python script to extract video links from HTML files and optionally queue them
 git clone https://github.com/Sify1999/DigiMovie-Downloader.git
 cd movie-downloader
 
-2. **Create a virtual environment:**  
+3. **Create a virtual environment:**  
 python -m venv venv
 
-3. **Activate the virtual environment:**  
+4. **Activate the virtual environment:**  
 **Windows:**  
 venv\Scripts\activate  
 
