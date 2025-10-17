@@ -20,6 +20,7 @@ A Python script to extract video links from HTML files and optionally queue them
 
 1. **Clone this repository:**  
 git clone https://github.com/Sify1999/DigiMovie-Downloader.git
+
 cd movie-downloader
 
 3. **Create a virtual environment:**  
