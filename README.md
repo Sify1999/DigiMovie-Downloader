@@ -19,18 +19,18 @@ A Python script to extract video links from HTML files and optionally queue them
 # 🚀 How to Run the Project
 
 1. **Clone this repository:**  
-git clone https://github.com/your-username/movie-downloader.git  
-cd movie-downloader
+   git clone https://github.com/Sify1999/DigiMovie-Downloader.git  
+   cd DigiMovie-Downloader
 
 2. **Create a virtual environment:**  
-python -m venv venv
+   python -m venv venv
 
 3. **Activate the virtual environment:**  
-**Windows:**  
-venv\Scripts\activate  
+   **Windows:**  
+   venv\Scripts\activate  
 
-**Linux/Mac:**  
-source venv/bin/activate
+   **Linux/Mac:**  
+   source venv/bin/activate
 
 4. **Install dependencies:**  
 pip install -r requirements.txt
